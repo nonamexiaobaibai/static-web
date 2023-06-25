@@ -51,6 +51,11 @@ body {
     list-style-type: none;
     display: flex;
     align-self: center;
+    margin-left: 400px;
+}
+
+.top-bar .report {
+    align-self: center;
 }
 
 .menu-bar li {
